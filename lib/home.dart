@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
               Padding(
                 padding: EdgeInsets.all(16.0),
                 child: TextField(
-                  decoration: InputDecoration(
+                  decoration: InputDecoration(   
                     hintText: "Search...",
                     icon: const Icon(
                       Icons.search,
